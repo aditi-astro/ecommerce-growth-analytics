@@ -126,14 +126,22 @@ Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 The dataset contains anonymised historical e-commerce transactions from 2016 to 2018.
 
-## Key Business Observations
+## Key Business Insights
 
-- Repeat customers represent approximately 3% of delivered-order customers.
-- Repeat customers demonstrate higher average spending than one-time customers.
-- Health & Beauty is among the leading product categories by sales.
-- Delivery delays are associated with lower average customer review scores.
+### Customer Behaviour
+- Repeat customers account for approximately **3.0%** of delivered-order customers.
+- Repeat customers generate approximately **5.6% of total revenue**.
+- Average customer spending is approximately R$308.53 for repeat customers, compared with R$160.73 for one-time customers.
 
-These observations are descriptive and do not establish causal relationships.
+### Product Performance
+- Health & Beauty is the highest-selling product category, generating approximately R$1.23 million in product sales.
+- Bed, Bath & Table records the highest number of orders among the leading categories.
+
+### Delivery Operations
+- Approximately **8.11% of analysed delivered orders** were delivered late.
+- Late deliveries have a lower average review score (2.57) compared with on-time deliveries (4.29).
+
+These findings are descriptive and do not establish causal relationships.
 
 ## Important Notes
 
