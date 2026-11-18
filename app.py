@@ -4,7 +4,7 @@ import pandas as pd
 import sqlite3
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
 DB_PATH = ROOT / "olist_analytics.db"
 
 st.set_page_config(
